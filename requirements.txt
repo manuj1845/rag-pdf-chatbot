@@ -1,0 +1,9 @@
+flask
+flask-cors
+chromadb
+sentence-transformers
+groq
+pymupdf
+python-dotenv
+werkzeug
+gunicorn
