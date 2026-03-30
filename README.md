@@ -163,4 +163,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Built with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)*
+*Built with ❤️ by [manuj1845](https://github.com/manuj1845)*
